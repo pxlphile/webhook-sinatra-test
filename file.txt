@@ -1,3 +1,4 @@
 hallo
 another line
 and another line
+amended fourth line
